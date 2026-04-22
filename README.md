@@ -27,6 +27,17 @@ This project explores that gap.
 - Actionable fixes  
 
 ---
+##  What stood out
+
+When tested with **Dageno AI**:
+
+- ❌ Not recognized in multiple prompts  
+- 🔴 Misclassified across contexts (geospatial tools, chatbots, etc.)  
+- 🔥 Trust Score: **0/100**  
+- ⚠️ Impact: **Critical**
+
+> The issue isn’t just visibility — it’s how the model *understands* the brand.
+
 
 ##  Why this matters
 
@@ -105,16 +116,12 @@ Actionable improvements like:
 
 ---
 
-## 🖥️ Demo
+## 🧠 Key idea
 
-**Example: Dageno AI**
+> **Misrepresentation is more damaging than absence.**
 
-- ❌ Not recognized in multiple prompts  
-- 🔴 Misclassified as geospatial tools / chatbots  
-- 🔥 Trust Score: **0/100**  
-- ⚠️ Impact: **Critical**
-
-> Insight: The issue isn’t just visibility — it’s how the model understands the brand.
+If a model places your brand in the wrong category,  
+users never evaluate it correctly.
 
 ---
 
