@@ -3,7 +3,7 @@
 🎥 **Demo (1 min):**  
 https://www.loom.com/share/e70eba66bd0f4fd6966f09aa5c9db3bc
 
-> Analyze how AI systems *perceive, understand, and trust* your brand.
+> Analyze how LLMs represent, misclassify, and trust your brand across prompts.
 
 ---
 
